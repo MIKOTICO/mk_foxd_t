@@ -2,8 +2,8 @@
 
 ## About
 
-RedM foxd_t is a modification of Silonugget´s script (https://github.com/Silonugget/mk_truck) using the MK Fox Designs "Foxd Model T" pieces (https://mkfoxdesigns.tebex.io/package/6716285). 
-I´m not the script creator; you can find the original script and the creator´s contact here: https://github.com/Silonugget/mk_truck.
+RedM foxd_t is a modification of Silonugget´s script (https://github.com/Silonugget/redm-truck) using the MK Fox Designs "Foxd Model T" pieces (https://mkfoxdesigns.tebex.io/package/6716285). 
+I´m not the script creator; you can find the original script and the creator´s contact here: https://github.com/Silonugget/redm-truck.
 
 The difference between this script and the original, is that this script has all the coordinates and details adjusted to work with the MK Fox Designs "Foxd Model T". If you need any assistance with the script, it is recommended to ask the creator (Silonugget) directly.
 
@@ -47,5 +47,5 @@ Turn Engine on/off = Left Alt,
    Rev = R
 
 ## Credits
-- Silonugget´s original script https://github.com/Silonugget/mk_truck
+- Silonugget´s original script https://github.com/Silonugget/redm-truck
 - MK Fox Designs for car models https://mkfoxdesigns.tebex.io/package/6716285
